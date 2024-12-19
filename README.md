@@ -17,10 +17,10 @@ My public profile
 
 ### ☕ Sobre mí
 
-- 📚 **Especializado en:** Desarrollo web y móvil (iOS & Android)
+- 📚 **Especializando en:** Desarrollo web.
 - 💡 **Experiencia en:** HTML, CSS, JavaScript, React, Node.js, Kotlin, Swift, Python
 - 🎓 **Educación:** SMR (Sistemas microimformaticos y redes) Aprendiendo DAW (Desarrollo de aplicaciones web)
-- 🔍 **En constante aprendizaje:**
+- 🔍 **En constante aprendizaje:📈**
 
 ---
 
